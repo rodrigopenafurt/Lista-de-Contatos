@@ -63,6 +63,9 @@ export const Inputlabel = styled.textarea`
   height: 20px;
   width: 162px;
   margin-bottom: 4px;
+  resize: none;
+  border: none;
+  padding: 2px;
 `
 
 export const Campo = styled.label`
